@@ -22,11 +22,15 @@ Este projeto é um cronômetro simples criado usando HTML, CSS e JavaScript. Ele
 
 ## 📸 Screenshots:
 
+<img src="https://raw.githubusercontent.com/GMarin89/Project_3--cronometro-/refs/heads/main/assets/print_page.jpg"/>
 
 
 
 
+## 📬 Você pode me contatar em: 
 
-## 📬 Contato Para mais informações ou dúvidas, você pode me contatar em: 
-- **Email**: wesley.giuliano@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/wesleygmarin/
+📧 E-mail: wesley.giuliano@gmail.com
+<br>
+<br>
+ <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+https://www.linkedin.com/in/wesleygmarin/
