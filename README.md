@@ -22,7 +22,7 @@ Este projeto é um cronômetro simples criado usando HTML, CSS e JavaScript. Ele
 
 ## 📸 Screenshots:
 
-
+<img src="https://raw.githubusercontent.com/GMarin89/Project_3--cronometro-/refs/heads/main/assets/print_page.jpg"/>
 
 
 
