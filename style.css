@@ -1,0 +1,59 @@
+.roboto-regular {
+    font-family: "Roboto", serif;
+
+}
+
+.roboto-bold {
+    font-family: "Roboto", serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Roboto", serif;
+    background-color: rgb(0, 110, 153);
+    margin-top: -50px;
+    gap: 30px;
+}
+
+#cronometro {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1em;
+}
+
+h1 {
+
+    margin-top: -60px;
+    color: rgb(207, 213, 210);
+    
+}
+
+img{
+
+    width: 400px;
+    height: 400px ;
+    
+}
