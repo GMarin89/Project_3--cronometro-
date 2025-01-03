@@ -27,6 +27,10 @@ Este projeto é um cronômetro simples criado usando HTML, CSS e JavaScript. Ele
 
 
 
-## 📬 Contato Para mais informações ou dúvidas, você pode me contatar em: 
-- **Email**: wesley.giuliano@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/wesleygmarin/
+## 📬 Você pode me contatar em: 
+
+📧 E-mail: wesley.giuliano@gmail.com
+<br>
+<br>
+ <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+https://www.linkedin.com/in/wesleygmarin/
